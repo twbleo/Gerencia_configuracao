@@ -1,0 +1,2 @@
+# Gerencia_configuracao
+cu
